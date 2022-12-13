@@ -1,0 +1,113 @@
+﻿import { createTheme } from '@fluentui/react';
+
+export const lightTheme = createTheme({
+  palette: {
+    themePrimary: '#0078d4',
+    themeLighterAlt: '#eff6fc',
+    themeLighter: '#deecf9',
+    themeLight: '#c7e0f4',
+    themeTertiary: '#71afe5',
+    themeSecondary: '#2b88d8',
+    themeDarkAlt: '#106ebe',
+    themeDark: '#005a9e',
+    themeDarker: '#004578',
+    neutralLighterAlt: '#faf9f8',
+    neutralLighter: '#f3f2f1',
+    neutralLight: '#edebe9',
+    neutralQuaternaryAlt: '#e1dfdd',
+    neutralQuaternary: '#d0d0d0',
+    neutralTertiaryAlt: '#c8c6c4',
+    neutralTertiary: '#a19f9d',
+    neutralSecondary: '#605e5c',
+    neutralSecondaryAlt: '#8a8886',
+    neutralPrimaryAlt: '#3b3a39',
+    neutralPrimary: '#323130',
+    neutralDark: '#201f1e',
+    black: '#000000',
+    white: '#ffffff',
+  }
+});
+
+export const darkTheme = createTheme({
+  palette: {
+    themePrimary: '#0078d4',
+    themeLighterAlt: '#eff6fc',
+    themeLighter: '#deecf9',
+    themeLight: '#c7e0f4',
+    themeTertiary: '#71afe5',
+    themeSecondary: '#2b88d8',
+    themeDarkAlt: '#106ebe',
+    themeDark: '#005a9e',
+    themeDarker: '#004578',
+    neutralLighterAlt: '#323130',
+    neutralLighter: '#31302f',
+    neutralLight: '#2f2e2d',
+    neutralQuaternaryAlt: '#2c2b2a',
+    neutralQuaternary: '#2a2928',
+    neutralTertiaryAlt: '#282726',
+    neutralTertiary: '#c8c8c8',
+    neutralSecondary: '#d0d0d0',
+    neutralSecondaryAlt: '#d0d0d0',
+    neutralPrimaryAlt: '#dadada',
+    neutralPrimary: '#ffffff',
+    neutralDark: '#f4f4f4',
+    black: '#f8f8f8',
+    white: '#2c2b2a',
+  }
+});
+
+export const classicLightTheme = createTheme({
+  palette: {
+    themePrimary: '#3c2e2f',
+    themeLighterAlt: '#f7f5f5',
+    themeLighter: '#e0d8d8',
+    themeLight: '#c5b7b8',
+    themeTertiary: '#8b7879',
+    themeSecondary: '#544345',
+    themeDarkAlt: '#372a2b',
+    themeDark: '#2f2425',
+    themeDarker: '#221a1b',
+    neutralLighterAlt: '#d5cdb8',
+    neutralLighter: '#d2cab4',
+    neutralLight: '#c9c1ad',
+    neutralQuaternaryAlt: '#bcb4a1',
+    neutralQuaternary: '#b3ac9a',
+    neutralTertiaryAlt: '#aca594',
+    neutralTertiary: '#111111',
+    neutralSecondary: '#171616',
+    neutralSecondaryAlt: '#171616',
+    neutralPrimaryAlt: '#1d1c1b',
+    neutralPrimary: '#323130',
+    neutralDark: '#282726',
+    black: '#2d2c2c',
+    white: '#dbd2bc',
+  }
+});
+
+export const classicDarkTheme = createTheme({
+  palette: {
+    themePrimary: '#dbd2bc',
+    themeLighterAlt: '#fefdfc',
+    themeLighter: '#f9f8f4',
+    themeLight: '#f4f1ea',
+    themeTertiary: '#eae4d6',
+    themeSecondary: '#e0d8c4',
+    themeDarkAlt: '#c5beaa',
+    themeDark: '#a7a08f',
+    themeDarker: '#7b766a',
+    neutralLighterAlt: '#3c2e2f',
+    neutralLighter: '#3b2d2e',
+    neutralLight: '#382b2c',
+    neutralQuaternaryAlt: '#342829',
+    neutralQuaternary: '#322627',
+    neutralTertiaryAlt: '#302526',
+    neutralTertiary: '#c8c8c8',
+    neutralSecondary: '#d0d0d0',
+    neutralSecondaryAlt: '#d0d0d0',
+    neutralPrimaryAlt: '#dadada',
+    neutralPrimary: '#ffffff',
+    neutralDark: '#f4f4f4',
+    black: '#f8f8f8',
+    white: '#3c2e2f',
+  }
+});

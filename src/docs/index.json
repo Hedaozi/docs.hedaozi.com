@@ -1,0 +1,55 @@
+{
+  "people": [
+    {
+      "name": "何凌锋",
+      "profileImageSrc": "https://media.hedaozi.com/avatar/LingfengHe.jpg",
+      "initials": "L.H."
+    },
+    {
+      "name": "林泽正",
+      "profileImageSrc": "",
+      "initials": "J.L."
+    }
+  ],
+  "series": [
+    {
+      "name": "书籍",
+      "docs": [
+        {
+          "href": "./docs/statistical-thinking-for-the-21st-century",
+          "title": "面向21世纪的统计思维",
+          "activity": "修改于2022年11月17日",
+          "people": [ 0, 1 ]
+        }
+      ]
+    },
+    {
+      "name": "教程",
+      "docs": [
+        {
+          "href": "./docs/dsg-python-tutorial",
+          "title": "DSG学生成长营Python教程",
+          "activity": "修改于2022年8月17日",
+          "people": [ 0 ]
+        }
+      ]
+    },
+    {
+      "name": "课程资料",
+      "docs": [
+        {
+          "href": "./docs/data-analysis-and-software-application",
+          "title": "《数据分析与软件应用》考试资料",
+          "activity": "修改于2020年1月13日",
+          "people": [ 0 ]
+        },
+        {
+          "href": "./docs/probability-theory-and-mathematical-statistics-memorandum",
+          "title": "《概率论与数理统计》考试资料",
+          "activity": "修改于2018年12月22日",
+          "people": [ 0 ]
+        }
+      ]
+    }
+  ]
+}

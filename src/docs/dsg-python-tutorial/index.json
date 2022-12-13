@@ -1,0 +1,14 @@
+﻿{
+  "title": "DSG学生成长营Python教程",
+  "parts": [
+    {
+      "name": "输出",
+      "chapters": [
+        {
+          "id": "python-to-excel",
+          "name": "Python to Excel"
+        }
+      ]
+    }
+  ]
+}

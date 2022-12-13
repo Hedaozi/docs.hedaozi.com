@@ -1,0 +1,94 @@
+{
+  "title": "《数据分析与软件应用》考试资料",
+  "parts": [
+    {
+      "name": "前言",
+      "chapters": [
+        {
+          "id": "",
+          "name": "关于本书"
+        }
+      ]
+    },
+    {
+      "name": "第一编 数据清洗",
+      "chapters": [
+        {
+          "id": "process-of-data-clean",
+          "name": "数据清洗的基本过程"
+        },
+        {
+          "id": "operations-of-data-clean",
+          "name": "数据清洗的操作"
+        }
+      ]
+    },
+    {
+      "name": "第二编 数据描述",
+      "chapters": [
+        {
+          "id": "data-distribution",
+          "name": "数据的分布"
+        },
+        {
+          "id": "statistical-graph",
+          "name": "统计图表"
+        }
+      ]
+    },
+    {
+      "name": "第三编 推断统计",
+      "chapters": [
+        {
+          "id": "fundamental",
+          "name": "基本原理"
+        },
+        {
+          "id": "one-samples-mean-test",
+          "name": "单变量均值检验"
+        },
+        {
+          "id": "nominal-nominal",
+          "name": "定类变量-定类变量"
+        },
+        {
+          "id": "ordinal-ordinal",
+          "name": "定序变量-定序变量"
+        },
+        {
+          "id": "nominal-interval",
+          "name": "定类变量-定距变量"
+        },
+        {
+          "id": "interval-interval",
+          "name": "定距变量-定距变量"
+        }
+      ]
+    },
+    {
+      "name": "附录 有关数学推导",
+      "chapters": [
+        {
+          "id": "mathematical-principles-of-prtest",
+          "name": "二分变量比例检验的数学原理"
+        },
+        {
+          "id": "statistic-of-paired-samples-mean-difference",
+          "name": "配对样本均值差的检验统计量"
+        },
+        {
+          "id": "statistic-of-independent-samples-mean-difference",
+          "name": "独立样本均值差的检验统计量"
+        },
+        {
+          "id": "chi-2-and-v-of-contingency-table",
+          "name": "列联表检验的chi2与V"
+        },
+        {
+          "id": "assumptions-of-anova",
+          "name": "方差分析的前提假定"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "title": "《概率论与数理统计》考试资料",
+  "parts": [
+    {
+      "name": "第一编 总结",
+      "chapters": [
+        {
+          "id": "enumeration-method-for-probability",
+          "name": "枚举法求概率"
+        },
+        {
+          "id": "consistency-between-sample-space-and-event-space",
+          "name": "样本空间与事件空间的一致性"
+        }
+      ]
+    }
+  ]
+}
